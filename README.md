@@ -5,7 +5,7 @@ geometrymind lets you play geometry dash with your mind!
 you need a neurosky mindwave headset
 
 
-[whats this]("https://discord.gg/e2WYCuk")
+[whats this](https://discord.gg/e2WYCuk)
 
 
 ## how to
